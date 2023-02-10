@@ -1,3 +1,54 @@
 body {
-    color: red
+    font-size: 25pt;
+    color: black
 }
+h1 {
+    font-size: 25pt;
+}
+strong {
+    font-weight: bold;
+}
+em {
+    font-style: italic;
+}
+.button {
+    background-color: red;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+ .my-button {
+    background-color: orange;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+ }
+ .my-button-1 {
+    background-color: blue;
+    border: none;
+    color: whitesmoke;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: grab;
+ }
+ .blockquote {
+    border-left: 3px solid;
+    font-size: 20pt;
+    padding-left: 50px;
+ }
